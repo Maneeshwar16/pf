@@ -6,10 +6,7 @@
   },
   "devDependencies": {
     "vite": "^4.0.0" 
-  }
-}
-
-{
+  },
   "dependencies": {
     "@react-three/fiber": "^8.13.7"
   }
